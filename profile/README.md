@@ -4,7 +4,7 @@
 <p align="center">Welcome to <strong>Opentek</strong>, your number one source for Open Source Development. We are dedicated to giving you the very best of tools, resources, and projects, with a focus on Collaboration, Code, and Networking.</p>
 
 <p align="center">	
-  <a target="_blank" href="https://discord.gg/9qyr4Mdc3Y"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://bit.ly/opentek-discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/company/opentekorg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/opentekorg"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:opentekorg@gmail.com?subject=Hello%20Anirudh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
